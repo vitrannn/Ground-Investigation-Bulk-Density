@@ -44,3 +44,4 @@ python stratifiedsampling.py --dir "./dataset/geomechanical properties/train.csv
 The samples will be saved as `/dataset/geomechanical properties/stratified.csv`.
 
 6. To calculate the confidence interval of an input list, call function `ci` in `utils.py`.
+
